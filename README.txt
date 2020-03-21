@@ -6,3 +6,4 @@ master commit 4
 feature one 1
 feature one 2
 feature one 3
+feature two 1

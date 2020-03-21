@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master third commit, a commit forward after feature branch off
+=======
+master third commit, a commit forward  after feature branch off
+>>>>>>> feature two commit one on top of feature one commit two
